@@ -1,0 +1,108 @@
+
+==========================================
+   Processing Dataset: GAP 1
+==========================================
+Problem  1 | Servers:  5 | Users: 15 | Total Cost:    235 | Assigned Users: 13/15
+Problem  2 | Servers:  5 | Users: 15 | Total Cost:    204 | Assigned Users: 12/15
+Problem  3 | Servers:  5 | Users: 15 | Total Cost:    193 | Assigned Users: 11/15
+Problem  4 | Servers:  5 | Users: 15 | Total Cost:    195 | Assigned Users: 11/15
+Problem  5 | Servers:  5 | Users: 15 | Total Cost:    189 | Assigned Users: 11/15
+
+==========================================
+   Processing Dataset: GAP 2
+==========================================
+Problem  1 | Servers:  5 | Users: 20 | Total Cost:    262 | Assigned Users: 18/20
+Problem  2 | Servers:  5 | Users: 20 | Total Cost:    255 | Assigned Users: 18/20
+Problem  3 | Servers:  5 | Users: 20 | Total Cost:    218 | Assigned Users: 17/20
+Problem  4 | Servers:  5 | Users: 20 | Total Cost:    202 | Assigned Users: 16/20
+Problem  5 | Servers:  5 | Users: 20 | Total Cost:    242 | Assigned Users: 18/20
+
+==========================================
+   Processing Dataset: GAP 3
+==========================================
+Problem  1 | Servers:  5 | Users: 25 | Total Cost:    382 | Assigned Users: 22/25
+Problem  2 | Servers:  5 | Users: 25 | Total Cost:    281 | Assigned Users: 17/25
+Problem  3 | Servers:  5 | Users: 25 | Total Cost:    379 | Assigned Users: 21/25
+Problem  4 | Servers:  5 | Users: 25 | Total Cost:    399 | Assigned Users: 22/25
+Problem  5 | Servers:  5 | Users: 25 | Total Cost:    317 | Assigned Users: 19/25
+
+==========================================
+   Processing Dataset: GAP 4
+==========================================
+Problem  1 | Servers:  5 | Users: 30 | Total Cost:    301 | Assigned Users: 22/30
+Problem  2 | Servers:  5 | Users: 30 | Total Cost:    365 | Assigned Users: 24/30
+Problem  3 | Servers:  5 | Users: 30 | Total Cost:    321 | Assigned Users: 22/30
+Problem  4 | Servers:  5 | Users: 30 | Total Cost:    326 | Assigned Users: 25/30
+Problem  5 | Servers:  5 | Users: 30 | Total Cost:    351 | Assigned Users: 25/30
+
+==========================================
+   Processing Dataset: GAP 5
+==========================================
+Problem  1 | Servers:  8 | Users: 24 | Total Cost:    312 | Assigned Users: 18/24
+Problem  2 | Servers:  8 | Users: 24 | Total Cost:    382 | Assigned Users: 23/24
+Problem  3 | Servers:  8 | Users: 24 | Total Cost:    333 | Assigned Users: 20/24
+Problem  4 | Servers:  8 | Users: 24 | Total Cost:    366 | Assigned Users: 22/24
+Problem  5 | Servers:  8 | Users: 24 | Total Cost:    336 | Assigned Users: 20/24
+
+==========================================
+   Processing Dataset: GAP 6
+==========================================
+Problem  1 | Servers:  8 | Users: 32 | Total Cost:    411 | Assigned Users: 24/32
+Problem  2 | Servers:  8 | Users: 32 | Total Cost:    405 | Assigned Users: 24/32
+Problem  3 | Servers:  8 | Users: 32 | Total Cost:    491 | Assigned Users: 29/32
+Problem  4 | Servers:  8 | Users: 32 | Total Cost:    522 | Assigned Users: 31/32
+Problem  5 | Servers:  8 | Users: 32 | Total Cost:    473 | Assigned Users: 28/32
+
+==========================================
+   Processing Dataset: GAP 7
+==========================================
+Problem  1 | Servers:  8 | Users: 40 | Total Cost:    589 | Assigned Users: 34/40
+Problem  2 | Servers:  8 | Users: 40 | Total Cost:    557 | Assigned Users: 32/40
+Problem  3 | Servers:  8 | Users: 40 | Total Cost:    581 | Assigned Users: 34/40
+Problem  4 | Servers:  8 | Users: 40 | Total Cost:    609 | Assigned Users: 36/40
+Problem  5 | Servers:  8 | Users: 40 | Total Cost:    617 | Assigned Users: 37/40
+
+==========================================
+   Processing Dataset: GAP 8
+==========================================
+Problem  1 | Servers:  8 | Users: 48 | Total Cost:    601 | Assigned Users: 36/48
+Problem  2 | Servers:  8 | Users: 48 | Total Cost:    634 | Assigned Users: 38/48
+Problem  3 | Servers:  8 | Users: 48 | Total Cost:    647 | Assigned Users: 39/48
+Problem  4 | Servers:  8 | Users: 48 | Total Cost:    688 | Assigned Users: 41/48
+Problem  5 | Servers:  8 | Users: 48 | Total Cost:    621 | Assigned Users: 37/48
+
+==========================================
+   Processing Dataset: GAP 9
+==========================================
+Problem  1 | Servers: 10 | Users: 30 | Total Cost:    397 | Assigned Users: 24/30
+Problem  2 | Servers: 10 | Users: 30 | Total Cost:    492 | Assigned Users: 29/30
+Problem  3 | Servers: 10 | Users: 30 | Total Cost:    450 | Assigned Users: 26/30
+Problem  4 | Servers: 10 | Users: 30 | Total Cost:    380 | Assigned Users: 23/30
+Problem  5 | Servers: 10 | Users: 30 | Total Cost:    426 | Assigned Users: 25/30
+
+==========================================
+   Processing Dataset: GAP 10
+==========================================
+Problem  1 | Servers: 10 | Users: 40 | Total Cost:    516 | Assigned Users: 31/40
+Problem  2 | Servers: 10 | Users: 40 | Total Cost:    577 | Assigned Users: 35/40
+Problem  3 | Servers: 10 | Users: 40 | Total Cost:    589 | Assigned Users: 35/40
+Problem  4 | Servers: 10 | Users: 40 | Total Cost:    565 | Assigned Users: 34/40
+Problem  5 | Servers: 10 | Users: 40 | Total Cost:    553 | Assigned Users: 33/40
+
+==========================================
+   Processing Dataset: GAP 11
+==========================================
+Problem  1 | Servers: 10 | Users: 50 | Total Cost:    522 | Assigned Users: 44/50
+Problem  2 | Servers: 10 | Users: 50 | Total Cost:    593 | Assigned Users: 45/50
+Problem  3 | Servers: 10 | Users: 50 | Total Cost:    547 | Assigned Users: 44/50
+Problem  4 | Servers: 10 | Users: 50 | Total Cost:    507 | Assigned Users: 42/50
+Problem  5 | Servers: 10 | Users: 50 | Total Cost:    629 | Assigned Users: 48/50
+
+==========================================
+   Processing Dataset: GAP 12
+==========================================
+Problem  1 | Servers: 10 | Users: 60 | Total Cost:    813 | Assigned Users: 49/60
+Problem  2 | Servers: 10 | Users: 60 | Total Cost:    834 | Assigned Users: 51/60
+Problem  3 | Servers: 10 | Users: 60 | Total Cost:    835 | Assigned Users: 51/60
+Problem  4 | Servers: 10 | Users: 60 | Total Cost:    832 | Assigned Users: 50/60
+Problem  5 | Servers: 10 | Users: 60 | Total Cost:    847 | Assigned Users: 52/60
